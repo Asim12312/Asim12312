@@ -165,27 +165,21 @@ I ship systems that don't break at scale — **real-time**, **ML-powered**, and 
 </table>
 
 ---
+
 ## 📊 GitHub Analytics
-
 <div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Asim12312&show_icons=true&count_private=true&include_all_commits=true&bg_color=0d0d0d&title_color=e11d48&text_color=f1f5f9&icon_color=facc15&border_color=1e293b&border_radius=12&hide_border=false" height="165" alt="GitHub Stats"/>
-
-&nbsp;
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Asim12312&layout=compact&bg_color=0d0d0d&title_color=3b82f6&text_color=f1f5f9&border_color=1e293b&border_radius=12&langs_count=6&hide_border=false" height="165" alt="Top Languages"/>
-
+  <!-- This is your main stats card - Simplified for maximum reliability -->
+  <img src="https://github-readme-stats.vercel.app/api?username=Asim12312&show_icons=true&theme=dark&bg_color=0d0d0d&title_color=e11d48&text_color=f1f5f9&icon_color=facc15&border_color=1e293b&hide_border=false" alt="Asim's Stats" />
+  
+  <br/><br/>
+  <!-- This shows your top languages -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Asim12312&layout=compact&theme=dark&bg_color=0d0d0d&title_color=3b82f6&text_color=f1f5f9&border_color=1e293b&hide_border=false" alt="Top Languages" />
+  
+  <br/><br/>
+  <!-- This is a VERY reliable activity graph (Red/Blue theme) -->
+  <img src="https://github-chart.vercel.app/api/grad?user=Asim12312&theme=dracula" width="100%" alt="Activity Graph" />
 </div>
-
-<br/>
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Asim12312&bg_color=0d0d0d&color=e11d48&line=3b82f6&point=facc15&area=true&hide_border=true" width="100%" alt="Activity Graph"/>
-
-</div>
-
-
+---
 
 ---
 
