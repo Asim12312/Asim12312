@@ -1,36 +1,36 @@
 <div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,100:00ff88&height=120&section=header&text=&animation=fadeIn" width="100%"/>
-
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,50:1a0a0a,100:e11d48&height=130&section=header&text=Muhammad%20Asim&fontSize=42&fontColor=facc15&animation=fadeIn&fontAlignY=65&desc=Full-Stack%20Engineer%20·%20MERN%20·%20ML%20·%20DevOps&descAlignY=85&descSize=14&descColor=f1f5f9"/>
 </div>
-
-<table>
-<tr>
-<td width="55%" valign="top">
-
-## Muhammad Asim
-### Full-Stack Engineer · MERN · ML · DevOps
-
-<img src="https://img.shields.io/badge/%E2%97%8F%20Open%20to%20Work-00ff88?style=flat-square&labelColor=0d0d0d&color=0a1a0f&logoColor=00ff88"/>
-<img src="https://img.shields.io/badge/Lahore%2C%20Pakistan-1e1e1e?style=flat-square"/>
-<img src="https://img.shields.io/badge/he%2Fhim-1e1e1e?style=flat-square"/>
 
 <br/>
 
-> I ship systems that **don't break at scale** — real-time, ML-powered,
-> and DevOps-ready from day one.
+<table>
+<tr>
+<td width="58%" valign="top">
 
-**BS Software Engineering** · University of Central Punjab · GPA **3.54 / 4.0**
+### `< The Builder />`
+
+![Available](https://img.shields.io/badge/●%20OPEN%20TO%20WORK-e11d48?style=flat-square&logoColor=white)
+![Location](https://img.shields.io/badge/📍%20Lahore%2C%20Pakistan-1e1e2e?style=flat-square&color=1e293b)
+![Remote](https://img.shields.io/badge/Remote%20OK-facc15?style=flat-square&logoColor=0d0d0d&color=854d0e)
+
+I ship systems that don't break at scale — **real-time**, **ML-powered**, and **DevOps-ready** from day one.
+
+> 🎓 BS Software Engineering · University of Central Punjab · **GPA 3.54 / 4.0**
 
 </td>
-<td width="45%" valign="top">
+<td width="42%" valign="top" align="center">
 
-| | |
-|---|---|
-| 🟢 **213** Contributions | 📦 **4+** Live Projects |
-| 🛠️ **10+** Technologies | 🎓 **3.54** GPA |
+```
+██████╗ ███████╗██╗   ██╗
+██╔══██╗██╔════╝██║   ██║
+██║  ██║█████╗  ██║   ██║
+██║  ██║██╔══╝  ╚██╗ ██╔╝
+██████╔╝███████╗ ╚████╔╝
+╚═════╝ ╚══════╝  ╚═══╝
+```
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Asim12312&show_icons=true&theme=transparent&bg_color=0d0d0d&title_color=00ff88&text_color=6b6b5e&icon_color=00ff88&border_color=1e1e1e&hide_border=false)
+`// architect · engineer · shipper`
 
 </td>
 </tr>
@@ -42,42 +42,45 @@
 
 <table>
 <tr>
-<th>Frontend</th>
-<th>Backend</th>
-<th>ML & Data</th>
-<th>DevOps & Tools</th>
+<th align="center">⚡ Frontend</th>
+<th align="center">🔧 Backend</th>
+<th align="center">🧠 ML & Data</th>
+<th align="center">🐳 DevOps</th>
 </tr>
 <tr>
-<td>
+<td align="center">
 
-![React](https://img.shields.io/badge/React-0d0d0d?style=flat-square&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-0d0d0d?style=flat-square&logo=nextdotjs&logoColor=white)
-![Tailwind](https://img.shields.io/badge/Tailwind-0d0d0d?style=flat-square&logo=tailwindcss&logoColor=38BDF8)
-![TypeScript](https://img.shields.io/badge/TypeScript-0d0d0d?style=flat-square&logo=typescript&logoColor=3178C6)
-
-</td>
-<td>
-
-![Node.js](https://img.shields.io/badge/Node.js-0d0d0d?style=flat-square&logo=nodedotjs&logoColor=68A063)
-![Express](https://img.shields.io/badge/Express-0d0d0d?style=flat-square&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-0d0d0d?style=flat-square&logo=mongodb&logoColor=4DB33D)
-![Socket.io](https://img.shields.io/badge/Socket.io-0d0d0d?style=flat-square&logo=socketdotio&logoColor=white)
+![React](https://img.shields.io/badge/React-3b82f6?style=for-the-badge&logo=react&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-0d0d0d?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-1d4ed8?style=for-the-badge&logo=typescript&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind-0369a1?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![Redux](https://img.shields.io/badge/Redux-7c3aed?style=for-the-badge&logo=redux&logoColor=white)
 
 </td>
-<td>
+<td align="center">
 
-![Python](https://img.shields.io/badge/Python-0d0d0d?style=flat-square&logo=python&logoColor=FFD43B)
-![Flask](https://img.shields.io/badge/Flask-0d0d0d?style=flat-square&logo=flask&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-0d0d0d?style=flat-square&logo=pandas&logoColor=150458)
-![Scikit](https://img.shields.io/badge/Scikit--learn-0d0d0d?style=flat-square&logo=scikitlearn&logoColor=F7931E)
+![Node.js](https://img.shields.io/badge/Node.js-15803d?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-1e293b?style=for-the-badge&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-166534?style=for-the-badge&logo=mongodb&logoColor=white)
+![Socket.io](https://img.shields.io/badge/Socket.io-0d0d0d?style=for-the-badge&logo=socketdotio&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-b45309?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
 
 </td>
-<td>
+<td align="center">
 
-![Docker](https://img.shields.io/badge/Docker-0d0d0d?style=flat-square&logo=docker&logoColor=2496ED)
-![GitHub Actions](https://img.shields.io/badge/GH%20Actions-0d0d0d?style=flat-square&logo=githubactions&logoColor=2088FF)
-![Nginx](https://img.shields.io/badge/Nginx-0d0d0d?style=flat-square&logo=nginx&logoColor=009639)
-![Figma](https://img.shields.io/badge/Figma-0d0d0d?style=flat-square&logo=figma&logoColor=F24E1E)
+![Python](https://img.shields.io/badge/Python-facc15?style=for-the-badge&logo=python&logoColor=0d0d0d)
+![Flask](https://img.shields.io/badge/Flask-1e293b?style=for-the-badge&logo=flask&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-e11d48?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![REST API](https://img.shields.io/badge/REST%20API-1d4ed8?style=for-the-badge&logoColor=white)
+
+</td>
+<td align="center">
+
+![Docker](https://img.shields.io/badge/Docker-1d4ed8?style=for-the-badge&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/Actions-0d0d0d?style=for-the-badge&logo=githubactions&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-15803d?style=for-the-badge&logo=nginx&logoColor=white)
+![Render](https://img.shields.io/badge/Render-7c3aed?style=for-the-badge&logo=render&logoColor=white)
+![CI/CD](https://img.shields.io/badge/CI%2FCD-e11d48?style=for-the-badge&logoColor=white)
 
 </td>
 </tr>
@@ -89,63 +92,73 @@
 
 <table>
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
 ### 🍽️ ChefOS
 **Real-time restaurant management platform**
 
-Scan-to-order QR menus · Live Kitchen Display System · Multi-user Socket.io sync · Mobile-first ordering · Real-time inventory
+![React](https://img.shields.io/badge/React-3b82f6?style=flat-square)
+![Node](https://img.shields.io/badge/Node-15803d?style=flat-square)
+![Socket.io](https://img.shields.io/badge/Socket.io-0d0d0d?style=flat-square)
+![MongoDB](https://img.shields.io/badge/MongoDB-166534?style=flat-square)
 
-![JS](https://img.shields.io/badge/JavaScript-1e1e1e?style=flat-square&logo=javascript&logoColor=F7DF1E)
-![Socket.io](https://img.shields.io/badge/Socket.io-1e1e1e?style=flat-square&logo=socketdotio&logoColor=white)
-![Node](https://img.shields.io/badge/Node.js-1e1e1e?style=flat-square&logo=nodedotjs&logoColor=68A063)
-![Mongo](https://img.shields.io/badge/MongoDB-1e1e1e?style=flat-square&logo=mongodb&logoColor=4DB33D)
+- 🔴 QR Scan-to-Order menus
+- 🔴 Live Kitchen Display System
+- 🔴 Multi-role auth (Admin/Staff/Manager)
+- 🔴 Sub-100ms real-time order sync
 
-[→ View Repository](https://github.com/Asim12312/ChefOS)
+**[→ View Repository](https://github.com/Asim12312/ChefOS)**
 
 </td>
-<td width="50%">
+<td width="50%" valign="top">
 
 ### 🎓 StudentSphere
 **Global campus hub · MERN Stack**
 
-Marketplace · Study materials · Courses · Social feed · Stripe payments · Academic forums · JWT auth
+![React](https://img.shields.io/badge/React-3b82f6?style=flat-square)
+![Stripe](https://img.shields.io/badge/Stripe-7c3aed?style=flat-square)
+![Socket.io](https://img.shields.io/badge/Socket.io-0d0d0d?style=flat-square)
 
-![React](https://img.shields.io/badge/React-1e1e1e?style=flat-square&logo=react&logoColor=61DAFB)
-![Stripe](https://img.shields.io/badge/Stripe-1e1e1e?style=flat-square&logo=stripe&logoColor=635BFF)
-![Express](https://img.shields.io/badge/Express-1e1e1e?style=flat-square&logo=express&logoColor=white)
+- 🔵 P2P Stripe-powered marketplace
+- 🔵 Real-time club chat rooms
+- 🔵 Academic forums & study resources
+- 🔵 Full admin dashboard
 
-[→ View Repository](https://github.com/Asim12312/student-sphere-app)
+**[→ View Repository](https://github.com/Asim12312/student-sphere-app)**
 
 </td>
 </tr>
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
 ### 🎬 Movie Discovery Engine
 **ML-powered recommendation system**
 
-Cosine Similarity matching · Flask REST API · Python data pipeline · Content-based filtering
+![Python](https://img.shields.io/badge/Python-facc15?style=flat-square&logoColor=0d0d0d)
+![Flask](https://img.shields.io/badge/Flask-1e293b?style=flat-square)
 
-![Python](https://img.shields.io/badge/Python-1e1e1e?style=flat-square&logo=python&logoColor=FFD43B)
-![Flask](https://img.shields.io/badge/Flask-1e1e1e?style=flat-square&logo=flask&logoColor=white)
-![ML](https://img.shields.io/badge/ML-1e1e1e?style=flat-square&logo=scikitlearn&logoColor=F7931E)
+- 🟡 Cosine Similarity matching algorithm
+- 🟡 Flask REST API backend
+- 🟡 Content-based filtering pipeline
+- 🟡 <200ms recommendation response
 
-[→ View Repository](https://github.com/Asim12312)
+**[→ View Repository](https://github.com/Asim12312)**
 
 </td>
-<td width="50%">
+<td width="50%" valign="top">
 
 ### 🐳 UCP DevOps Pipeline
 **End-to-end CI/CD containerized deployment**
 
-Multi-environment setup · Docker containers · GitHub Actions automation · Nginx reverse proxy · Render deployment
+![Docker](https://img.shields.io/badge/Docker-1d4ed8?style=flat-square)
+![GitHub Actions](https://img.shields.io/badge/Actions-0d0d0d?style=flat-square)
 
-![Docker](https://img.shields.io/badge/Docker-1e1e1e?style=flat-square&logo=docker&logoColor=2496ED)
-![GH Actions](https://img.shields.io/badge/Actions-1e1e1e?style=flat-square&logo=githubactions&logoColor=2088FF)
-![Nginx](https://img.shields.io/badge/Nginx-1e1e1e?style=flat-square&logo=nginx&logoColor=009639)
+- 🔵 Multi-stage Docker containers
+- 🔵 GitHub Actions automation
+- 🔵 Nginx reverse proxy config
+- 🔵 Zero-downtime Render deployment
 
-[→ View Repository](https://github.com/Asim12312/ucp-devops-project)
+**[→ View Repository](https://github.com/Asim12312/ucp-devops-project)**
 
 </td>
 </tr>
@@ -157,8 +170,15 @@ Multi-environment setup · Docker containers · GitHub Actions automation · Ngi
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Asim12312&layout=compact&theme=transparent&bg_color=0d0d0d&title_color=00ff88&text_color=6b6b5e&border_color=1e1e1e" height="160"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Asim12312&theme=transparent&background=0d0d0d&ring=00ff88&fire=00ff88&currStreakLabel=00ff88&sideLabels=6b6b5e&currStreakNum=f0ece0&sideNums=f0ece0&dates=3a3a30&border=1e1e1e" height="160"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Asim12312&show_icons=true&count_private=true&bg_color=0d0d0d&title_color=e11d48&text_color=f1f5f9&icon_color=facc15&border_color=1e293b&border_radius=12" height="165"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Asim12312&layout=compact&bg_color=0d0d0d&title_color=3b82f6&text_color=f1f5f9&border_color=1e293b&border_radius=12&langs_count=6" height="165"/>
+
+</div>
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=Asim12312&theme=dark&background=0d0d0d&border=1e293b&ring=e11d48&fire=facc15&currStreakLabel=facc15&sideLabels=94a3b8&currStreakNum=f1f5f9&sideNums=f1f5f9&dates=475569&border_radius=12" height="160"/>
 
 </div>
 
@@ -167,42 +187,34 @@ Multi-environment setup · Docker containers · GitHub Actions automation · Ngi
 ## 🗓️ Timeline
 
 ```
-2026  ──  Actively seeking full-stack / ML engineering roles
-          ↳ Available now · Remote OK · On-site Lahore
-          
-2025  ──  Shipped ChefOS & StudentSphere (production-grade SaaS)
-          ↳ Socket.io real-time sync · Stripe payments · CI/CD
+2026 ──── Actively seeking Full-Stack / ML Engineering roles
+          ↳ Available NOW · Remote OK · On-site Lahore · Open to Relocation
 
-2024  ──  Built Movie ML Engine · Containerized all projects
-          ↳ Python/Flask · Docker · GitHub Actions pipelines
+2025 ──── Shipped ChefOS & StudentSphere (production-grade SaaS)
+          ↳ Socket.io real-time sync · Stripe payments · CI/CD pipelines
 
-2022  ──  BS Software Engineering · University of Central Punjab
-          ↳ GPA 3.54 · Expected graduation 2026
+2024 ──── Built Movie ML Engine · Containerized all projects with Docker
+          ↳ Python / Flask · GitHub Actions · Nginx Reverse Proxy
+
+2022 ──── BS Software Engineering · University of Central Punjab
+          ↳ GPA 3.54 / 4.0 · Expected graduation 2026
 ```
 
 ---
 
 ## 📬 Let's Build Something
 
-<table>
-<tr>
-<td>
-
-[![Email](https://img.shields.io/badge/Email-mazammasim%40gmail.com-1e1e1e?style=for-the-badge&logo=gmail&logoColor=EA4335)](mailto:mazammasim@gmail.com)
-
-</td>
-<td>
-
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-%2B92%20343%20161%201587-1e1e1e?style=for-the-badge&logo=whatsapp&logoColor=25D366)](https://wa.me/923431611587)
-
-</td>
-<td>
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-1e1e1e?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://linkedin.com/in/muhammad-asim-b011852b5)
-
-</td>
-</tr>
-</table>
+<p align="left">
+<a href="mailto:mazammasim@gmail.com">
+<img src="https://img.shields.io/badge/📧%20mazammasim@gmail.com-e11d48?style=for-the-badge&logoColor=white"/>
+</a>
+<a href="https://wa.me/923431611587">
+<img src="https://img.shields.io/badge/💬%20WhatsApp-15803d?style=for-the-badge&logoColor=white"/>
+</a>
+<a href="https://github.com/Asim12312/My-Portfolio">
+<img src="https://img.shields.io/badge/🌐%20Portfolio-facc15?style=for-the-badge&logoColor=0d0d0d"/>
+</a>
+</p>
 
 <br/>
 
@@ -210,4 +222,6 @@ Multi-environment setup · Docker containers · GitHub Actions automation · Ngi
 <sub><code>// I don't just push code — I architect systems that scale. //</code></sub>
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ff88,100:0d0d0d&height=80&section=footer" width="100%"/>
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:e11d48,50:1d4ed8,100:0d0d0d&height=100&section=footer" width="100%"/>
+</div>
