@@ -180,7 +180,12 @@ I ship systems that don't break at scale — **real-time**, **ML-powered**, and 
   <img src="https://github-chart.vercel.app/api/grad?user=Asim12312&theme=dracula" width="100%" alt="Activity Graph" />
 </div>
 ---
-
+## 🛠️ Manual Tech "Stickers" (Always Working)
+<p align="center">
+  <img src="https://img.shields.io/badge/MERN_STACK-e11d48?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/NEXT.JS_14-3b82f6?style=for-the-badge&logo=nextdotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/DEVOPS_EXPERT-facc15?style=for-the-badge&logo=docker&logoColor=black" />
+</p>
 ---
 
 ## 🗓️ Timeline
