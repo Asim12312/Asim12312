@@ -165,22 +165,27 @@ I ship systems that don't break at scale — **real-time**, **ML-powered**, and 
 </table>
 
 ---
-
 ## 📊 GitHub Analytics
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Asim12312&show_icons=true&count_private=true&bg_color=0d0d0d&title_color=e11d48&text_color=f1f5f9&icon_color=facc15&border_color=1e293b&border_radius=12" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Asim12312&show_icons=true&count_private=true&include_all_commits=true&bg_color=0d0d0d&title_color=e11d48&text_color=f1f5f9&icon_color=facc15&border_color=1e293b&border_radius=12&hide_border=false" height="165" alt="GitHub Stats"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Asim12312&layout=compact&bg_color=0d0d0d&title_color=3b82f6&text_color=f1f5f9&border_color=1e293b&border_radius=12&langs_count=6" height="165"/>
+&nbsp;
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Asim12312&layout=compact&bg_color=0d0d0d&title_color=3b82f6&text_color=f1f5f9&border_color=1e293b&border_radius=12&langs_count=6&hide_border=false" height="165" alt="Top Languages"/>
 
 </div>
+
+<br/>
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=Asim12312&theme=dark&background=0d0d0d&border=1e293b&ring=e11d48&fire=facc15&currStreakLabel=facc15&sideLabels=94a3b8&currStreakNum=f1f5f9&sideNums=f1f5f9&dates=475569&border_radius=12" height="160"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Asim12312&bg_color=0d0d0d&color=e11d48&line=3b82f6&point=facc15&area=true&hide_border=true" width="100%" alt="Activity Graph"/>
 
 </div>
+
+
 
 ---
 
