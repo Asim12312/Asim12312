@@ -166,26 +166,20 @@ I ship systems that don't break at scale — **real-time**, **ML-powered**, and 
 
 ---
 
-## 📊 GitHub Analytics
+## 📊 By The Numbers
+
 <div align="center">
-  <!-- This is your main stats card - Simplified for maximum reliability -->
-  <img src="https://github-readme-stats.vercel.app/api?username=Asim12312&show_icons=true&theme=dark&bg_color=0d0d0d&title_color=e11d48&text_color=f1f5f9&icon_color=facc15&border_color=1e293b&hide_border=false" alt="Asim's Stats" />
-  
-  <br/><br/>
-  <!-- This shows your top languages -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Asim12312&layout=compact&theme=dark&bg_color=0d0d0d&title_color=3b82f6&text_color=f1f5f9&border_color=1e293b&hide_border=false" alt="Top Languages" />
-  
-  <br/><br/>
-  <!-- This is a VERY reliable activity graph (Red/Blue theme) -->
-  <img src="https://github-chart.vercel.app/api/grad?user=Asim12312&theme=dracula" width="100%" alt="Activity Graph" />
+
+![Repos](https://img.shields.io/badge/Public%20Repos-8+-e11d48?style=for-the-badge&logoColor=white)
+![Experience](https://img.shields.io/badge/Years%20Coding-4+-3b82f6?style=for-the-badge&logoColor=white)
+![GPA](https://img.shields.io/badge/GPA-3.54%20%2F%204.0-facc15?style=for-the-badge&logoColor=black)
+![Projects](https://img.shields.io/badge/Live%20Projects-4+-e11d48?style=for-the-badge&logoColor=white)
+![Stack](https://img.shields.io/badge/Technologies-10+-3b82f6?style=for-the-badge&logoColor=white)
+![Status](https://img.shields.io/badge/Status-Open%20To%20Work-facc15?style=for-the-badge&logoColor=black)
+
 </div>
----
-## 🛠️ Manual Tech "Stickers" (Always Working)
-<p align="center">
-  <img src="https://img.shields.io/badge/MERN_STACK-e11d48?style=for-the-badge&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/NEXT.JS_14-3b82f6?style=for-the-badge&logo=nextdotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/DEVOPS_EXPERT-facc15?style=for-the-badge&logo=docker&logoColor=black" />
-</p>
+
+
 ---
 
 ## 🗓️ Timeline
