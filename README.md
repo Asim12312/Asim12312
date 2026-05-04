@@ -217,9 +217,9 @@ I ship systems that don't break at scale — **real-time**, **ML-powered**, and 
 <br/>
 
 <div align="center">
-### `// I don't just push code — I architect systems that scale. //`
-
+  <h3>// I don't just push code — I architect systems that scale. //</h3>
 </div>
+
 
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:e11d48,50:1d4ed8,100:0d0d0d&height=100&section=footer" width="100%"/>
