@@ -172,12 +172,12 @@ I ship systems that don't break at scale — **real-time**, **ML-powered**, and 
 
 ![Repos](https://img.shields.io/badge/Public%20Repos-8+-e11d48?style=for-the-badge&logoColor=white)
 ![Experience](https://img.shields.io/badge/Years%20Coding-4+-3b82f6?style=for-the-badge&logoColor=white)
-![GPA](https://img.shields.io/badge/GPA-3.54%20%2F%204.0-facc15?style=for-the-badge&logoColor=black)
 ![Projects](https://img.shields.io/badge/Live%20Projects-4+-e11d48?style=for-the-badge&logoColor=white)
 ![Stack](https://img.shields.io/badge/Technologies-10+-3b82f6?style=for-the-badge&logoColor=white)
 ![Status](https://img.shields.io/badge/Status-Open%20To%20Work-facc15?style=for-the-badge&logoColor=black)
 
 </div>
+
 
 
 ---
@@ -217,7 +217,8 @@ I ship systems that don't break at scale — **real-time**, **ML-powered**, and 
 <br/>
 
 <div align="center">
-<sub><code>// I don't just push code — I architect systems that scale. //</code></sub>
+### `// I don't just push code — I architect systems that scale. //`
+
 </div>
 
 <div align="center">
